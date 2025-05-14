@@ -5,12 +5,12 @@
 #include <ESP32Servo.h>
 
 // WiFi credentials
-const char* ssid = "kaka";
-const char* password = "12345678";
+const char* ssid = "enter your wifi name";
+const char* password = "enter your wifi password";
 
 // Telegram Bot Token and Chat ID
-const char* botToken = "8092574247:AAHcP1n0ytysOOJF2uq2BgyT5aioQpOsUXs";
-const char* chatID = "1085014882";
+const char* botToken = "enter your telegram bot token";
+const char* chatID = "enter your chat id";
 
 // MQ135 analog pin
 const int gasSensorPin = 34;
